@@ -168,8 +168,7 @@ function moveDodgerRight() {
     if (left > 0) {
       DODGER.style.right = `${right - 4}px`;
     }
-  }
-   
+  })
 }
 
 /**
